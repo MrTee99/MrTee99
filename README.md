@@ -24,7 +24,7 @@ I started my journey with game development using Unity then after working on it 
 ### Frontend
 
 - Core: React.js, TypeScript, JavaScript (ES6+)
-- Framework: Next.js
+- Framework: Next.js, React Native
 
 ### Backend & Database
 
